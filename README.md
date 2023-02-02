@@ -2,8 +2,7 @@
 Refactor marketing agency website to use semantic HTML element to improve accessibility 
 
 ## Github Pages
-Locate the deployed application on Github pagrs [here]file:///Users/hodanibrahim/Desktop/Homework/UBHM-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html
-
+Locate the deployed application on Github pagrs [here] http://127.0.0.1:5500/index.html
 ## Description
 Refactor an existing marketing agency website to use semantic HTML elements in order to improve accessibility
 
